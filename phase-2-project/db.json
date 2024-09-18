@@ -1,0 +1,28 @@
+{
+  "companies": [
+    {
+      "id": "1",
+      "name": "Company two",
+      "address": "123 Main St",
+      "owner": "John Doe"
+    },
+    {
+      "id": "2",
+      "name": "Company Two",
+      "address": "456 Elm St",
+      "owner": "Jane Doe"
+    },
+    {
+      "id": "c99e",
+      "name": "liff",
+      "address": "601",
+      "owner": "br"
+    },
+    {
+      "id": "c70f",
+      "name": "kc",
+      "address": "34",
+      "owner": "br"
+    }
+  ]
+}
